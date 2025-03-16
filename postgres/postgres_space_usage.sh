@@ -3,7 +3,7 @@
 ## Script para monitorear el uso de espacio por cada base de datos en PostgreSQL
 #
 #PG_USER="postgres"  # Usuario
-#PG_PASSWORD="rootpassword"  # Nueva contraseña
+#MYSQL_PASSWORD="password""  # Nueva contraseña
 #PG_HOST="localhost"  # Cambia si es necesario
 #
 #export PGPASSWORD=$PG_PASSWORD

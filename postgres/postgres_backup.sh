@@ -3,7 +3,7 @@
 ## Script para realizar un respaldo de una base de datos PostgreSQL
 #
 #PG_USER="postgres"  # Usuario
-#PG_PASSWORD="rootpassword"  # Nueva contraseña
+#MYSQL_PASSWORD="password""  # Nueva contraseña
 #PG_HOST="localhost"  # Cambia si es necesario
 #DATABASE_NAME="your_database_name"  # Cambia el nombre de la base de datos
 #BACKUP_DIR="/path/to/backup"  # Cambia la ruta donde deseas guardar el backup
